@@ -21,6 +21,11 @@ html{
 header{
 	border-bottom: 3px solid #921420;
 }
+
+* {
+	margin:0;
+	padding: 0;
+}
 a:focus, a:hover {
 	font-style: italic;
 }
@@ -86,3 +91,5 @@ footer p {
 footer{
 	background-color: #921420;
 }
+
+
