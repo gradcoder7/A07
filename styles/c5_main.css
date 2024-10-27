@@ -18,6 +18,9 @@ body {
 html{
 	background-color: white;
 }
+header{
+	border-bottom: 3px solid #921420;
+}
 a:focus, a:hover {
 	font-style: italic;
 }
