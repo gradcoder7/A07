@@ -81,9 +81,9 @@ main li {
 footer p {
 	text-align: center;
 	padding: 1em 0;
-	background-color: #921420;
 	color: white;
 }
 footer{
 	border-top: 3px solid #921420;
+	background-color: #921420;
 }
